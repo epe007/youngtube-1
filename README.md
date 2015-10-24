@@ -1,2 +1,5 @@
 # youngtube
-Filteröi joko viljamin veljet, 10-vuotiaat jonnet tai mitä yhteisö haluaa Youtubesta. Haluaisitteko pienen haukkaisun parempaa Youtubea?
+Häiritseekö sinua YouTuben ärsyttävät lapset jotka eivät yksinkertaisesti osaa käyttäytyä?
+Ei hätää! Tähän on todella helppo ratkaisu.
+YoungTube UserScript estää kyseiset käyttäjät.
+Scriptin avulla voit myös ehdottaa käyttäjää listalle.
